@@ -1,5 +1,5 @@
 {
-  "name": "dansmith/laravel-form-utilities",
+  "name": "dansmith/php-form-utilities",
   "description": "",
   "authors": [
     {
@@ -8,14 +8,16 @@
     }
   ],
   "require-dev": {
-    "phpunit/phpunit": "~4.0"
+    "phpunit/phpunit": "~4.0",
+    "illuminate/support": "5.4.*",
+    "illuminate/http": "5.4.*"
   },
   "config": {
     "bin-dir": "bin"
   },
   "autoload": {
     "psr-4": {
-      "DanSmith\\LaravelFormUtilities\\": "src"
+      "DanSmith\\FormUtilities\\": "src"
     }
   },
   "minimum-stability": "dev"

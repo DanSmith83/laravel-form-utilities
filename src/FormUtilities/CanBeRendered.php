@@ -1,6 +1,6 @@
 <?php
 
-namespace DanSmith\LaravelFormUtilities;
+namespace DanSmith\FormUtilities;
 
 interface CanBeRendered {
 

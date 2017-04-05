@@ -2,7 +2,7 @@
 
 namespace DanSmith\Form;
 
-interface PersistsWhenResolved {
+interface CanPersist {
 
     public function persist();
 }

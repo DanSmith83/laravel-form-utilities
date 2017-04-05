@@ -1,8 +1,8 @@
 <?php
 
-namespace DanSmith\LaravelFormUtilities;
+namespace DanSmith\FormUtilities\Laravel;
 
-use DanSmith\Form\PersistsWhenResolved;
+use DanSmith\FormUtilities\Laravel\PersistsWhenResolved;
 use Illuminate\Support\ServiceProvider;
 
 class FormServiceProvider extends ServiceProvider {
