@@ -1,5 +1,5 @@
 {
-  "name": "dansmith/laravel-form-utilities",
+  "name": "dansmith/php-form-utilities",
   "description": "",
   "authors": [
     {
@@ -15,7 +15,7 @@
   },
   "autoload": {
     "psr-4": {
-      "DanSmith\\LaravelFormUtilities\\": "src"
+      "DanSmith\\FormUtilities\\": "src"
     }
   },
   "minimum-stability": "dev"
